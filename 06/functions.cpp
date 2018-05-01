@@ -85,6 +85,7 @@ int main()
 /* TODO: write a *function* that takes an integer n and returns the
  * nth term in the Fibonacci sequence. */
 /* TODO: write test code for all the above exercises. */
+------------------------------------
 /* TODO: (WARNING: THIS IS NOT EASY. Only attempt this if you are bored.)
  * The previous exercise asked for you to compute the nth term of the
  * Fibonacci sequence.  Try to estimate approximately how many steps (number

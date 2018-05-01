@@ -98,6 +98,7 @@ int main()
 	/* TODO: read those notes I gave you (l1.pdf was the file name) and
 	 * try to do the exercises at the end. */
 
+
 	/* TODO: given an integer n, find exponent of the largest power of two that
 	 * divides n.  Example: if n = r*8 with r odd, then you should output 3
 	 * since 8 = 2^3.  (You are just recovering the exponent of the 2 in the

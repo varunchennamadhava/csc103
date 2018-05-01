@@ -1,3 +1,6 @@
+go thru this lecture and see if i completed the right things......i dont know how to do second min and make sure the other ones are done correctly.
+
+
 /* More about loops.
  * See lectures 4,5,6 from Prof. Li.,
  * and chapters 3,4 in the book. */
