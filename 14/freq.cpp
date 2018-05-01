@@ -13,7 +13,14 @@ int main()
 {
 	map<string,int> F; /* store frequency table */
 	string s; /* hold an input */
-	while (cin >> s) F[s]++;
+	while (cin >> s)
+	{
+		F[s]++;
+	}
+
+
+
+
 	/* NOTE: it is crucial that integers are initialized
 	 * to 0 here.  (Remember: integers that aren't part of a map
 	 * are not initialized to 0 for you.) */
@@ -21,6 +28,7 @@ int main()
 	for (map<string,int>::iterator i = F.begin(); i != F.end(); i++) {
 		cout << (*i).first << ":\t" << (*i).second << "\n";
 	}
+
 	/* NOTE: each node has two parts (the key, and the associated
 	 * value).  The .first and .second give you those two parts,
 	 * respectively. */

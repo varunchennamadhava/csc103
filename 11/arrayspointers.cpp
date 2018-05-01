@@ -45,7 +45,7 @@ int main() {
 	int* p; /* declare a pointer.  Note the '*'.  Also acceptable
 	           (and instructive) is to declare it as int *p;  In either
 			   case, *p is of type int, and p is the address of that int. */
-	#if 0
+	#if 1
 	/* NOTE: you could initialize the pointer by directly writing an address
 	 * like this: */
 	p = (int*) 4;

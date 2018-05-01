@@ -8,7 +8,7 @@ int main()
 	/* c-strings are just arrays of characters with a null character
 	 * at the end.  The "null character" is simply the char with
 	 * (integer) value 0.  (See the file ../09/ascii-test.cpp) */
-	char s[10] = "hello :D";
+	char s[9] = "hello :D";
 	/* NOTE: the c-string "hello :D" is actually 9 characters!
 	 * TODO: change the length of s to 8, and try to compile
 	 * this program.  The compiler will get mad. */
